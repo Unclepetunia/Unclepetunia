@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Unclepetunia
+- 👋 Hi, I’m Mark
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... JS
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... more later
+- 📫 How to reach me ... 
 
 <!---
 Unclepetunia/Unclepetunia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
